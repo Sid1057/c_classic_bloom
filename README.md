@@ -16,3 +16,6 @@ Edit bloom.h between bloom_macros.h including line and '#endif' line for support
 ```
 Then include bloom.h file in your code.
 Good luck with it.
+
+### Status
+Type-generic expressions coming soon
