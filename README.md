@@ -14,3 +14,5 @@ Edit bloom.h between bloom_macros.h including line and '#endif' line for support
 #include "bloom_templates.h"
 #undef T
 ```
+Then include bloom.h file in your code.
+Good luck with it.
